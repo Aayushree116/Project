@@ -1,0 +1,12 @@
+let a= 10;
+let b = 5;
+let sum = a + b;
+let diff = a - b;
+let product = a * b;
+let quotient = a / b;
+let module =a % b;
+console.log("Sum:", sum);
+console.log("Difference:", diff);
+console.log("Product:", product);
+console.log("Quotient:", quotient);
+console.log("Module:", module );
